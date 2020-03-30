@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# [小太的小伙伴们](https://713.moe/friends)
 
-You can use the [editor on GitHub](https://github.com/SatoSouta/MyFriends/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 友链说明
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果你想和咱交换友链，还请阅读一下内容。谢谢配合～
 
-### Markdown
+### 原则
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 申请的友链将经过筛选（请按格式填好哦～），你可以在合并前后于贵站添加本站链接。
+- 原则上最好为使用 HTTPS 协议站点。
+- 已添加友链不会轻易删除。如您已移除本站链接，本站也将移除友链。
+- 链接无法打开或网站存在政治问题、植入挖矿脚本、极低质量内容时，将不会添加。
+- 拥有至少一篇原创文章。
+- 会使用 Git 与 GitHub。
+- 最终解释权归咱自己所有。
+- 如网站链接、描述、头像等信息更换，请在此创建新的 `Pull Request`。
 
-```markdown
-Syntax highlighted code block
+### 格式
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```json
+{
+    "name": "小太の游乐园",
+    "avatar": "https://gravatar.loli.net/avatar/ad5babe8213864d97007267d9e130291?s=640",
+    "description" :"一个热爱ACG的技术宅",
+    "url": "https://713.moe/"
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- `name`: 博客名称/称呼
+- `avatar`: 头像图片链接（请尽量使用加载速度快的图片链接）
+- `desc`: 一句话描述，描述一下 `自己` 或者 `站点` 或者 `喜欢的话`？（最好不要太长，否则会被截断。）
+- `url`: 博客链接
 
-### Jekyll Themes
+### 如何交换友链
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SatoSouta/MyFriends/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 在您的站点上添加上本站的相关信息（先友后链原则）
+- 在 GitHub 上 `Fork` 此仓库
+- 按照以上格式在 `links.json` 文件末尾新增你的信息（json写法请注意）
+- 完成后，新建 `Pull Request`
+- 当 `Pull Request` 被合并后，您的站点将会在10分钟内显示在 [友人帐](https://713.moe/friends) 中
+- 过后若您的站点信息有变更，您可以自行修改相关信息~
