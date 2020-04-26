@@ -119,5 +119,10 @@
         "avatar": "https://cdn.jsdelivr.net/gh/JesseJeson/file/%E5%8D%9A%E5%AE%A2%E5%A4%B4%E5%83%8F.jpg",
         "description" :"一个正在学习各种知识的咸鱼",
         "url": "https://histcat.ml/"
+    },{
+        "name": "DIYgod",
+        "avatar": "https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/DIYgod.jpg",
+        "description": "写代码是热爱，写到世界充满爱！",
+        "url": "https://diygod.me/"
     }
 ]
