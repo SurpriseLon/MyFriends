@@ -134,5 +134,10 @@
         "avatar": "https://beyondstars.xyz/site-avatar-400-by-400.png",
         "description": "探索·思考·分享",
         "url": "https://beyondstars.xyz/"
+    },{
+        "name": "MOKESPACE",
+        "avatar": "https://gravatar.loli.net/avatar/d949711dbc6071f7f5c189c7c6855f47?s=100",
+        "description": "Java 技术分享",
+        "url": "https://mokespace.cn/"
     }
 ]
