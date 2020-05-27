@@ -107,7 +107,7 @@
     },{
         "name": "云游君",
         "avatar": "https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg",
-        "description" :"希望能成为一个有趣的人。# All at sea.",
+        "description" :"希望能成为一个有趣的人",
         "url": "https://www.yunyoujun.cn/"
     },{
         "name": "histcatの不知名小窝",
@@ -126,7 +126,7 @@
         "url": "https://www.addesp.com/"
     },{
         "name": "探索子",
-        "avatar": "https://beyondstars.xyz/site-avatar-400-by-400.png",
+        "avatar": "https://beyondstars.xyz/favicon.png",
         "description": "探索·思考·分享",
         "url": "https://beyondstars.xyz/"
     },{
@@ -144,5 +144,10 @@
         "avatar": "https://gravatar.loli.net/avatar/c004f07e4aeea5ada1cc18fa390f6e09?s=100",
         "description": "⑨⑨⑨⑨⑨",
         "url": "https://9bie.org/"
+    },{
+        "name": "我爱樱花の小屋",
+        "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2446582580&s=100",
+        "description": "不定期分享自己学到的知识，发布一些教程以及源码软件等文章。",
+        "url": "https://www.52sakura.cn/"
     }
 ]
