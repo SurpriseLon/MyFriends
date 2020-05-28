@@ -1,153 +1,182 @@
 [
     {
         "name": "泰拉瑞亚中文论坛",
-        "avatar": "https://cdn.h-o-l-a.cn/images/logo/bbstr_square.png",
-        "description" :"国内知名的泰拉瑞亚玩家交流平台",
-        "url": "https://www.bbstr.net/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/bbstr.net.jpg",
+        "description": "国内知名的泰拉瑞亚玩家交流平台",
+        "url": "https://bbstr.net"
+    },
+    {
         "name": "bangbang93",
-        "avatar": "https://tva3.sinaimg.cn/crop.0.0.200.200.200/56e0fc78jw1e8qgp5bmzyj2050050aa8.jpg",
-        "description" :"bang bang!",
-        "url": "https://blog.bangbang93.com/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/blog.bangbang93.com.jpg",
+        "description": "bang bang!",
+        "url": "https://blog.bangbang93.com"
+    },
+    {
         "name": "戴兜的小屋",
-        "avatar": "https://daidr.me/wp-content/uploads/2017/11/5_a-e1515336786629.png",
-        "description" :"在迷失中寻找自我",
-        "url": "https://daidr.me/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/daidr.me.jpg",
+        "description": "在迷失中寻找自我",
+        "url": "https://daidr.me"
+    },
+    {
         "name": "豆沙の欢乐小屋",
-        "avatar": "https://q.qlogo.cn/g?b=qq&nk=1656425255&s=100",
-        "description" :"一只啥都不会的豆沙",
-        "url": "http://blog.xiaoleimu.cn/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/blog.xiaoleimu.cn.jpg",
+        "description": "一只啥都不会的豆沙",
+        "url": "http://blog.xiaoleimu.cn"
+    },
+    {
         "name": "PolarWS",
-        "avatar": "https://cdn.h-o-l-a.cn/images/avatar/polarws.jpg",
-        "description" :"一条快乐咸鱼",
-        "url": "http://polarws.moe/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/polarws.moe.jpg",
+        "description": "一条快乐咸鱼",
+        "url": "https://polarws.moe"
+    },
+    {
         "name": "Eltrac Koalar",
-        "avatar": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpeg",
-        "description" :"暗夜行路，终遇奇迹。",
-        "url": "https://guhub.cn/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/guhub.cn.jpg",
+        "description": "暗夜行路，终遇奇迹。",
+        "url": "https://guhub.cn"
+    },
+    {
         "name": "Bhao",
-        "avatar": "https://cdn.jsdelivr.net/gh/bhaoo/Bhao-s-Blog@latest/logo.jpg",
-        "description" :"世间无田螺，世间多田螺。",
-        "url": "https://dwd.moe/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/dwd.moe.jpg",
+        "description": "世间无田螺，世间多田螺。",
+        "url": "https://dwd.moe"
+    },
+    {
         "name": "月月月子喵",
-        "avatar": "https://haozi.moe/css/images/logo.png",
-        "description" :"月月月子喵~",
-        "url": "https://haozi.moe/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/haozi.moe.jpg",
+        "description": "喵喵喵~",
+        "url": "https://haozi.moe"
+    },
+    {
         "name": "idealclover",
-        "avatar": "https://idealclover.top/icon.jpg",
-        "description" :"翠翠酱的个人网站",
-        "url": "https://idealclover.top/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/idealclover.top.jpg",
+        "description": "翠翠酱的个人网站",
+        "url": "https://idealclover.top"
+    },
+    {
         "name": "崇宫苟道",
-        "avatar": "https://lzh441.cn/img/head.jpg",
-        "description" :"zaima?kkp",
-        "url": "https://lzh441.cn/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/lzh441.cn.jpg",
+        "description": "苟道鸽鸽～",
+        "url": "https://lzh441.cn"
+    },
+    {
         "name": "Ohmyga",
-        "avatar": "https://gravatar.loli.net/avatar/02ca8ceff769a3b8018a984b7b8f30e1?s=300",
-        "description" :"和OMG贴贴~",
-        "url": "https://ohmyga.cn/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/blog.ohmyga.cn.jpg",
+        "description": "和OMG鸽鸽贴贴~",
+        "url": "https://blog.ohmyga.cn"
+    },
+    {
         "name": "freejishu",
-        "avatar": "https://cn-south-227-storage-freejishu-21499426.oss.dogecdn.com/g.jpg",
-        "description" :"Code · Thinking · ACG",
-        "url": "http://www.freejishu.com/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/freejishu.com.jpg",
+        "description": "Code·Thinking·ACG",
+        "url": "http://freejishu.com"
+    },
+    {
         "name": "OkYes!",
-        "avatar": "https://cdn233.2890.ltd/20200111/1/5e18a37b39308CLSUFFlogosmallest.png",
-        "description" :"念念不忘，必有回响",
-        "url": "https://2890.ltd/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/2890.ltd.jpg",
+        "description": "念念不忘，必有回响",
+        "url": "https://2890.ltd"
+    },
+    {
         "name": "皮皮凛の小窝",
-        "avatar": "https://cdn.jsdelivr.net/gh/AyagawaSeirin/Assets/img/logo.jpg",
-        "description" :"永远相信美好的事情即将发生~",
-        "url": "https://qwq.best/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/qwq.best.jpg",
+        "description": "永远相信美好的事情即将发生~",
+        "url": "https://qwq.best"
+    },
+    {
         "name": "Yueer",
-        "avatar": "https://cdn.serab.cn/blog/photo.png",
-        "description" :"一个什么都想做却做不完的笨蛋",
-        "url": "https://ero.plus/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/yueer.moe.jpg",
+        "description": "一个什么都想做却做不完的笨蛋",
+        "url": "https://yueer.moe"
+    },
+    {
         "name": "MmCee-我的世界",
-        "avatar": "https://www.mmcee.cn/favicon.ico",
-        "description" :"我的世界热爱者",
-        "url": "https://www.mmcee.cn/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/mmcee.cn.jpg",
+        "description": "我的世界热爱者",
+        "url": "https://mmcee.cn"
+    },
+    {
         "name": "ruan4261",
-        "avatar": "https://cdn.jsdelivr.net/npm/blog_static/image/pro.jpg",
-        "description" :"Java萌新，喜欢和程序杠精",
-        "url": "https://ruan4261.com/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/ruan4261.com.jpg",
+        "description": "Java萌新，喜欢和程序杠精",
+        "url": "https://ruan4261.com"
+    },
+    {
         "name": "弥枳",
-        "avatar": "https://blog.coor.top/avatar",
-        "description" :"write code is love, write the world full of love!",
-        "url": "https://blog.coor.top/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/blog.coor.top.jpg",
+        "description": "write code is love, write the world full of love!",
+        "url": "https://blog.coor.top"
+    },
+    {
         "name": "七夏浅笑",
-        "avatar": "https://ae01.alicdn.com/kf/U3f38a4228e434dfdb6681986c7232051a.jpg",
-        "description" :"七月之约，夏末浅笑",
-        "url": "https://www.julydate.com/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/julydate.com.jpg",
+        "description": "七月之约，夏末浅笑",
+        "url": "https://julydate.com"
+    },
+    {
         "name": "苏卡卡的有底洞",
-        "avatar": "https://cdn.jsdelivr.net/npm/skx@0.1.1/avatar/144x144.png",
-        "description" :"童话只美在真实却从不续写",
-        "url": "https://skk.moe/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/blog.skk.moe.jpg",
+        "description": "童话只美在真实却从不续写",
+        "url": "https://blog.skk.moe"
+    },
+    {
         "name": "Royce",
-        "avatar": "https://cdn.jsdelivr.net/gh/Royce2019/img/img/avatar.jpg",
-        "description" :"OI小白",
-        "url": "https://royce2003.top/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/royce2003.top.jpg",
+        "description": "OI小白",
+        "url": "https://royce2003.top"
+    },
+    {
         "name": "云游君",
-        "avatar": "https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg",
-        "description" :"希望能成为一个有趣的人",
-        "url": "https://www.yunyoujun.cn/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/yunyoujun.cn.jpg",
+        "description": "希望能成为一个有趣的人",
+        "url": "https://yunyoujun.cn"
+    },
+    {
         "name": "histcatの不知名小窝",
-        "avatar": "https://cdn.jsdelivr.net/gh/JesseJeson/file/%E5%8D%9A%E5%AE%A2%E5%A4%B4%E5%83%8F.jpg",
-        "description" :"一个正在学习各种知识的咸鱼",
-        "url": "https://histcat.ml/"
-    },{
+        "avatar": "https://friends.713.moe/avatar/histcat.ml.jpg",
+        "description": "一个正在学习各种知识的咸鱼",
+        "url": "https://histcat.ml"
+    },
+    {
         "name": "DIYgod",
-        "avatar": "https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/DIYgod.jpg",
+        "avatar": "https://friends.713.moe/avatar/diygod.me.jpg",
         "description": "写代码是热爱，写到世界充满爱！",
-        "url": "https://diygod.me/"
-    },{
+        "url": "https://diygod.me"
+    },
+    {
         "name": "ADD-SP",
-        "avatar": "https://www.addesp.com/avatar.jpg",
+        "avatar": "https://friends.713.moe/avatar/addesp.com.jpg",
         "description": "Hello World!",
-        "url": "https://www.addesp.com/"
-    },{
+        "url": "https://addesp.com"
+    },
+    {
         "name": "探索子",
-        "avatar": "https://beyondstars.xyz/favicon.png",
+        "avatar": "https://friends.713.moe/avatar/beyondstars.xyz.jpg",
         "description": "探索·思考·分享",
-        "url": "https://beyondstars.xyz/"
-    },{
+        "url": "https://beyondstars.xyz"
+    },
+    {
         "name": "MOKESPACE",
-        "avatar": "https://gravatar.loli.net/avatar/d949711dbc6071f7f5c189c7c6855f47?s=100",
+        "avatar": "https://friends.713.moe/avatar/mokespace.cn.jpg",
         "description": "Java 技术分享",
-        "url": "https://mokespace.cn/"
-    },{
+        "url": "https://mokespace.cn"
+    },
+    {
         "name": "Ghosin",
-        "avatar": "https://gravatar.loli.net/avatar/2e7ee4285fc617220b028dc409ae08fd?s=100",
+        "avatar": "https://friends.713.moe/avatar/ghos.in.jpg",
         "description": "某苟姓人士",
-        "url": "https://ghos.in/"
-    },{
+        "url": "https://ghos.in"
+    },
+    {
         "name": "⑨BIE",
-        "avatar": "https://gravatar.loli.net/avatar/c004f07e4aeea5ada1cc18fa390f6e09?s=100",
+        "avatar": "https://friends.713.moe/avatar/9bie.org.jpg",
         "description": "⑨⑨⑨⑨⑨",
-        "url": "https://9bie.org/"
-    },{
+        "url": "https://9bie.org"
+    },
+    {
         "name": "我爱樱花の小屋",
-        "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2446582580&s=100",
+        "avatar": "https://friends.713.moe/avatar/52sakura.cn.jpg",
         "description": "不定期分享自己学到的知识，发布一些教程以及源码软件等文章。",
-        "url": "https://www.52sakura.cn/"
+        "url": "https://52sakura.cn"
     }
 ]
