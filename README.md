@@ -37,5 +37,5 @@
 - 在 GitHub 上 `Fork` 此仓库
 - 按照以上格式在 `links.json` 文件末尾新增你的信息（json写法请注意）
 - 完成后，新建 `Pull Request`
-- 当 `Pull Request` 被合并后，您的站点将会在10分钟内显示在 [友人帐](https://713.moe/friends) 中
+- 当 `Pull Request` 被合并后，您的站点将会在10分钟内显示在 [友情链接](https://713.moe/friends.html) 和 [友人帐](https://blog.713.moe/friends) 中
 - 过后若您的站点信息有变更，您可以自行修改相关信息~
