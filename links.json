@@ -178,5 +178,11 @@
         "avatar": "52sakura.cn.jpg",
         "description": "不定期分享自己学到的知识，发布一些教程以及源码软件等文章。",
         "url": "https://52sakura.cn"
+    },
+    {
+    "name": "一只科技菌",
+    "avatar": "https://blog.yzzi.top/images/avatar.png",
+    "description" :"我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。",
+    "url": "https://blog.yzzi.top/"
     }
 ]
