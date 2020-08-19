@@ -184,5 +184,11 @@
     "avatar": "blog.yzzi.top.jpg",
     "description" :"我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。",
     "url": "https://blog.yzzi.top/"
+    },
+    {
+    "name": "FindMyFUN",
+    "avatar": "findmyfun.cn.jpg",
+    "description" :"My Life is a Beauty",
+    "url": "https://www.findmyfun.cn"
     }
 ]
