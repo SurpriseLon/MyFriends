@@ -4,5 +4,23 @@
         "avatar": "https://blogapi.llllhf.com/storage/avatar/AYTxo60lPszH9E9JeXPjL4T87r8fUcNyQzRzQVAW.jpeg",
         "description" :"Look how we all make it",
         "url": "https://blog.llllhf.com/"
+    },
+    {
+        "name": "Royce",
+        "avatar": "royce2003.top.jpg",
+        "description": "OI小白",
+        "url": "https://royce2003.top"
+    },
+    {
+        "name": "histcatの不知名小窝",
+        "avatar": "histcat.ml.jpg",
+        "description": "一个正在学习各种知识的咸鱼",
+        "url": "https://histcat.ml"
+    },
+    {
+        "name": "我爱樱花の小屋",
+        "avatar": "52sakura.cn.jpg",
+        "description": "不定期分享自己学到的知识，发布一些教程以及源码软件等文章。",
+        "url": "https://52sakura.cn"
     }
 ]
