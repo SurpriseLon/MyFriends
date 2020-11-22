@@ -120,22 +120,10 @@
         "url": "https://blog.skk.moe"
     },
     {
-        "name": "Royce",
-        "avatar": "royce2003.top.jpg",
-        "description": "OI小白",
-        "url": "https://royce2003.top"
-    },
-    {
         "name": "云游君",
         "avatar": "yunyoujun.cn.jpg",
         "description": "希望能成为一个有趣的人",
         "url": "https://yunyoujun.cn"
-    },
-    {
-        "name": "histcatの不知名小窝",
-        "avatar": "histcat.ml.jpg",
-        "description": "一个正在学习各种知识的咸鱼",
-        "url": "https://histcat.ml"
     },
     {
         "name": "DIYgod",
@@ -172,12 +160,6 @@
         "avatar": "9bie.org.jpg",
         "description": "⑨⑨⑨⑨⑨",
         "url": "https://9bie.org"
-    },
-    {
-        "name": "我爱樱花の小屋",
-        "avatar": "52sakura.cn.jpg",
-        "description": "不定期分享自己学到的知识，发布一些教程以及源码软件等文章。",
-        "url": "https://52sakura.cn"
     },
     {
         "name": "一只科技菌",
