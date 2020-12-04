@@ -178,5 +178,11 @@
         "avatar": "findmyfun.cn.jpg",
         "description" :"My Life is a Beauty",
         "url": "https://www.findmyfun.cn"
+    },
+    {
+        "name": "JokerM's Palace",
+        "avatar": "https://cdn.jokerm.com/?/imgcdn/logo.png",
+        "description" :"Take your heart",
+        "url": "https://jokerm.com"
     }
 ]
