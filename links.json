@@ -184,5 +184,11 @@
         "avatar": "jokerm.com.jpg",
         "description" :"Take your heart",
         "url": "https://jokerm.com"
+    },
+    {
+        "name": "SurpriseLon’s blog",
+        "avatar": "https://www.gravatar.com/avatar/26fb4e9d679e499d8545df9f2aea519c?d=mm&s=200",
+        "description" :"あなたは主人公になりたいですか？",
+        "url": "https://furrysp.me"
     }
 ]
